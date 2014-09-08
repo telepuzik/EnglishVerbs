@@ -14,6 +14,5 @@ namespace EnglishVerbsForms
         public string FormThree { get; set; }
         public string FormFour { get; set; }
         public string FormFive { get; set; }
-        public string FormX { get; set; }
     }
 }
